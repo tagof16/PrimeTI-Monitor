@@ -1,2 +1,2 @@
-# PrimeTI-Monitor
-Sistema de monitoramento de rede e ativos de TI
+# PrimeAgenda
+Sistema de agenda para sua barbearia e salão de beleza
